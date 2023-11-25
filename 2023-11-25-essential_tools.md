@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essential Tools for a busy PhD Student"
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 ---
 ## Essential Tools for a busy PhD Student
 
