@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: "Essential Tools for a busy PhD Student"
+theme: jekyll-theme-cayman
+---
 ## Essential Tools for a busy PhD Student
 
 - start date: 2023-11-25
